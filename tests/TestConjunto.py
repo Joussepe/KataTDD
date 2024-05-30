@@ -1,5 +1,5 @@
 import unittest
-
+from src.logica.Conjunto import Connjunto
 
 class TestConjunto(unittest.TestCase):
     def test_something(self):
