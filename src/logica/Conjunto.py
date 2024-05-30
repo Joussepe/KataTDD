@@ -1,2 +1,3 @@
-class Connjunto:
-    pass
+class Conjunto:
+    def promedio(self):
+        return False
